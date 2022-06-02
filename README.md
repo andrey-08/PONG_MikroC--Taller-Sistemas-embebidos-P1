@@ -3,6 +3,6 @@ Este proyecto consiste en la creación del juego PONG que  correrá en un sistem
 # Descripcion
 Se busca programar dos PIC18F4550 los cuales tendran el mismo juego, este juego presenta dos modos (Multijugador y contra la maquina). El modo multijugador utilliza el metodo de maestro y esclavo para permitir una comunicacion serial UART entre estos dos sistemas empotrados.
 
-#Integrantes
+# Integrantes
 - Jose Andrey Sequeira Ruiz
 - Erick Quiros Zeledon
