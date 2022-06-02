@@ -1,0 +1,21 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo2 -N"C:\Users\Andrey\Documents\TEC\1 semestre 2022\Taller Embebidos\pruebaEncender\glcd.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Andrey\Documents\TEC\1 semestre 2022\Taller Embebidos\pruebaEncender\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "glcd.c" "portada.c" "GameOver.c" "TEC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_PrintOut.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Manchester.mcl" "__Lib_PS2.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_D.mcl" "__Lib_PWM_c21.mcl" "__Lib_SPI_b10c7.mcl" "__Lib_UART_c67.mcl" "__Lib_USB_genHID.mcl" "__Lib_PortExpander.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_Mmc.mcl" "__Lib_RS485.mcl" "__Lib_SPIGlcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	glcd.c
+warning: 494	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	glcd.c
+diagnostics: 770	123	Compiled Successfully	glcd.c
+hint: 203	1164	Variable 'text' has been eliminated by optimizer	glcd.c
+hint: 467	1164	Variable 'text' has been eliminated by optimizer	glcd.c
+hint: 478	1164	Variable 'uart_rd' has been eliminated by optimizer	glcd.c
+diagnostics: 0	122	Compilation Started	portada.c
+diagnostics: 15	123	Compiled Successfully	portada.c
+diagnostics: 0	122	Compilation Started	GameOver.c
+diagnostics: 15	123	Compiled Successfully	GameOver.c
+diagnostics: 0	122	Compilation Started	TEC.c
+diagnostics: 15	123	Compiled Successfully	TEC.c
+diagnostics: 0	127	All files Compiled in 188 ms	 
+hint: 0	1144	Used RAM (bytes): 429 (21%)  Free RAM (bytes): 1598 (79%)	Used RAM (bytes): 429 (21%)  Free RAM (bytes): 1598 (79%)
+hint: 0	1144	Used ROM (bytes): 14256 (44%)  Free ROM (bytes): 18512 (56%)	Used ROM (bytes): 14256 (44%)  Free ROM (bytes): 18512 (56%)
+diagnostics: 0	125	Project Linked Successfully	glcd.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'glcd.mcppi' completed: 266 ms	 
+diagnostics: 0	103	Finished successfully: 07 mar. 2022, 00:40:51	glcd.mcppi
